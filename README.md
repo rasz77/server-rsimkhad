@@ -4,7 +4,7 @@ A simple HTTP server built with Go and Docker for my systems programming assignm
 
 The server provides a status endpoint that returns the current system time in JSON. It also handles invalid paths and HTTP methods and sends request logs to Loggly.
 
-# Usages:
+## Usages:
 - Go
 - Docker
 - AWS EC2
