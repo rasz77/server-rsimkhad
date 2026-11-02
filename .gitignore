@@ -1,3 +1,4 @@
 status-server.tar
 *.pem
 .env
+main_backup.txt
